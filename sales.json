@@ -1,0 +1,12 @@
+[
+    {
+        "method": "trade",
+        "product": "Lucky SIM",
+        "data":{
+            "product":"crystal",
+            "quantity": "0.1",
+            "unit":"g"
+        }
+    }
+
+]
